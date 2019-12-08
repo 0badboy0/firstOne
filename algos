@@ -1,4 +1,0 @@
-Check if the last element of the array is reachable
- start from th e right end...check if u can reach the new rightmist from the left.
- if so....cintinue...return isPossible when u r at the first index
- if not return false in the end.
